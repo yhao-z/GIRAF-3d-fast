@@ -12,3 +12,6 @@ for now, it is an early version, because the annotation of the codes is not so w
 although there are few deficiencies, it is easily to run the codes correctly. try it and test it!
 
 perfect it together!
+
+# NEXT IS THE derivation
+NOTE: all the notations and the symbols is as same as the paper [A Fast Algorithm for Convolutional Structured Low-Rank Matrix Recovery](https://ieeexplore.ieee.org/document/7964698)
