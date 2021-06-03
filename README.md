@@ -14,4 +14,4 @@ although there are few deficiencies, it is easily to run the codes correctly. tr
 perfect it together!
 
 # NEXT IS THE derivation
-NOTE: all the notations and the symbols is as same as the paper [A Fast Algorithm for Convolutional Structured Low-Rank Matrix Recovery](https://ieeexplore.ieee.org/document/7964698)
+download and look the pdf file [Derivation of GIRAF-3D-FAST.pdf](https://github.com/yhao-z/GIRAF-3d-fast/blob/main/Derivation%20of%20GIRAF-3D-FAST.pdf) for detail.
